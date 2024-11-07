@@ -1,6 +1,6 @@
 Hi 👋 My name is Dimary 
 =======================  
-Almost Full-Stack Developer and Digital Nomad 
+Full-Stack Developer and Digital Nomad 
 ---------------------------------------------
 ### Skills
 
